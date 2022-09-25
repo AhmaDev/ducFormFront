@@ -51,6 +51,34 @@
           <a target="_BLANK" href="https://duc.edu.iq"
             >موقع كلية دجلة الجامعة الرسمي</a
           >
+          <br />
+          <v-btn href="https://www.facebook.com/dijlamedia" x-large icon>
+            <v-icon>mdi-facebook</v-icon>
+          </v-btn>
+          <v-btn
+            href="https://www.instagram.com/universities_college_iraq/"
+            x-large
+            icon
+          >
+            <v-icon>mdi-instagram</v-icon>
+          </v-btn>
+          <v-btn href="https://snapchat.com/add/dijla.college" x-large icon>
+            <v-icon>mdi-snapchat</v-icon>
+          </v-btn>
+          <v-btn href="https://twitter.com/Dijla_College" x-large icon>
+            <v-icon>mdi-twitter</v-icon>
+          </v-btn>
+
+          <v-btn href="https://www.tiktok.com/@dijla_college" x-large icon>
+            <img width="30px" src="@/assets/tiktok.png" />
+          </v-btn>
+          <v-btn
+            href="https://www.youtube.com/channel/UCNNBIlOtI1bQsHO-C7rUv-g"
+            x-large
+            icon
+          >
+            <v-icon>mdi-youtube</v-icon>
+          </v-btn>
         </center>
       </div>
     </v-card>
