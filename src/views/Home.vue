@@ -47,6 +47,8 @@
           وبما يسهم في تحقيق أهداف التنمية الاقتصادية والاجتماعية في العراق.
         </h3>
         <br /><br />
+        <h2>مشروع طلاب قسم علوم الحاسوب</h2>
+        <br /><br />
         <center>
           <a target="_BLANK" href="https://duc.edu.iq"
             >موقع كلية دجلة الجامعة الرسمي</a
@@ -98,7 +100,7 @@ export default {
       name: "",
       phone: "",
       location: "",
-      degree: null,
+      degree: 0,
       section: "",
     },
     sections: [
