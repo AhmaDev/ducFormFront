@@ -70,7 +70,7 @@ export default {
       name: "",
       phone: "",
       location: "",
-      degree: 0,
+      degree: null,
       section: "",
     },
     sections: [
