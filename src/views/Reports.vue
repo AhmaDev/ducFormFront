@@ -1,6 +1,10 @@
 <template>
   <div id="reports">
-    <v-data-table :items="data" :headers="dataHeader"></v-data-table>
+    <v-data-table
+      :items-per-page="10000"
+      :items="data"
+      :headers="dataHeader"
+    ></v-data-table>
   </div>
 </template>
 
