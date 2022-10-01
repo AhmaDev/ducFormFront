@@ -25,7 +25,7 @@ export default {
   },
   methods: {
     fetch() {
-      this.$http.get("forms").then((res) => {
+      this.$http.get("forms?auth=AzdAddsaUUsaMjjjdajAu2ww87718").then((res) => {
         this.data = res.data;
       });
     },
